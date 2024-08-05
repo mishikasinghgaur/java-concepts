@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb53e764-bc5a-4e3f-a620-3bdd46d2fa5e" name="Changes" comment="" />
+    <list default="true" id="97da571a-d129-4d3b-a72f-8f0ea5286321" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java-basics" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="2VipTAwS8bPTTkW8mneOQND3bKZ" />
+  <component name="ProjectId" id="2kF6XTdD7EX8ZJAmFGLZrKFqko0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,18 +26,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Java/java-oops"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb53e764-bc5a-4e3f-a620-3bdd46d2fa5e" name="Changes" comment="" />
-      <created>1695328759870</created>
+      <changelist id="97da571a-d129-4d3b-a72f-8f0ea5286321" name="Changes" comment="" />
+      <created>1722867017079</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695328759870</updated>
+      <updated>1722867017079</updated>
     </task>
     <servers />
   </component>
